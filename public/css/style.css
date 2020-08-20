@@ -1,0 +1,107 @@
+.header {
+    height: 250px;
+    background: rgba(18,33,128,0.89);
+}
+.logo {
+    padding-top: 20px;
+}
+.bg-primary {
+    background-color: rgba(18,33,128,0.89)!important;
+}
+.main {
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+.main-h1 {
+    text-align: center;
+    color: #0018a5; 
+    font-size: 20px; 
+    margin-bottom: 30px;
+}
+.footer {
+    color: white;
+    padding: 2rem 0;
+    background-color: rgba(18,33,128,0.89);
+}
+.footer p {
+    font-size: 12px;
+}
+.footer a {
+    font-size: 12px;
+    color: white;
+}
+.copyright {
+    background: rgba(24, 40, 141, 0.89);
+    padding: 0.7rem 0;
+}
+.copyright p {
+    text-align: center;
+    color: white;
+}
+img.alignright {
+    margin: 2px 2px 2px 16px !important;
+}
+.alignright {
+    float: right;
+}
+.breadcrumb {
+    padding: 0 0 0 2rem;
+    background-color: white;
+}
+.img-thumbnail {
+    border-width: 2px;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #ebeefa;
+    color: rgb(15, 15, 15);
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 4px;
+  }
+  
+  #myBtn:hover {
+    background-color: #555;
+  }
+/* .science {
+    display:block;
+    
+} */
+
+.card {
+    margin-bottom: 10px;
+}
+
+.card-img {
+    height: 200px;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background: no-repeat center;
+}
+
+.card-img, .card-author .card-date .card-descr {
+    margin-bottom: 10px;
+}
+
+.card-img__max {
+    height: 500px;
+}
+
+.card-btn {
+    display: flex;
+}
+
+.card-btn a {
+    margin-right: 10px;
+}
+.p {
+    font-size: 14px;
+    margin: 10px 5px 10px 5px;
+}
